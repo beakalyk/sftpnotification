@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "node-cron": "^3.0.2",
+    "node-sftp-client": "^2.3.2",
+    "nodemailer": "^6.9.1"
+  },
+  "name": "sft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
